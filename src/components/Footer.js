@@ -6,16 +6,13 @@ function Footer() {
       <div className="container">
         <p className="mb-2">&copy; 2025 Eva Writers. All Rights Reserved.</p>
         <div className="d-flex justify-content-center gap-3">
-          <a href="#" className="text-light" target="_blank" rel="noopener noreferrer">
-            <i className="bi bi-facebook fs-4"></i>
+          <a href="https://www.instagram.com/eva_writers?igsh=MWdjNW43aTBlemZoYQ%3D%3D&utm_source=qr" className="text-light" target="_blank" rel="noopener noreferrer">
+            <i className="bi bi-instagram fs-4"></i>
           </a>
-          <a href="#" className="text-light" target="_blank" rel="noopener noreferrer">
-            <i className="bi bi-twitter fs-4"></i>
-          </a>
-          <a href="#" className="text-light" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/Evawriters" className="text-light" target="_blank" rel="noopener noreferrer">
             <i className="bi bi-telegram fs-4"></i>
           </a>
-          <a href="#" className="text-light" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.link/shpbac" className="text-light" target="_blank" rel="noopener noreferrer">
             <i className="bi bi-whatsapp fs-4"></i>
           </a>
         </div>

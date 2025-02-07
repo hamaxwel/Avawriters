@@ -9,7 +9,7 @@ function Home() {
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
-        fontFamily: '"Montserrat", sans-serif' // Use an attractive font
+        fontFamily: '"Montserrat", sans-serif' 
       }}
     >
       <div className="container text-center py-5">
@@ -60,15 +60,17 @@ function Home() {
             <div className="card p-4 shadow-sm hover-scale">
               <h2 className="fw-bold text-dark">Our Services</h2>
               <p className="text-secondary">
-                At Eva Writers, we offer comprehensive academic assistance for every type of assignment. Whether you need help with essays, research papers, or lab work, our team of expert writers is here to support you. Our services include:
+                At Eva Writers, we offer comprehensive academic assistance for every type of assignment. When you need help, our team of expert writers is here to support you. Our services include:
               </p>
               <ul className="text-secondary text-start ms-3">
                 <li>Tests, quizzes, and lab work assignments</li>
                 <li>General academic assignments</li>
                 <li>Writing professional CVs</li>
+                <li>Discussion posts</li>
                 <li>Data analysis and interpretation</li>
-                <li>Dissertations and theses</li>
+                <li>Dissertations and thesis</li>
                 <li>Proposals and project plans</li>
+                <li>Essays</li>
               </ul>
             </div>
           </div>
